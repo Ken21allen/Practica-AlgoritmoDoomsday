@@ -1,0 +1,44 @@
+El algoritmo del día del juicio, ingeniosamente desarrollado por el matemático John Conway en 1973, es un método para calcular mentalmente el día de la semana de cualquier fecha. Esta habilidad, aunque poco común, es sorprendentemente útil y estimulante para el cerebro. Sin embargo, aprender y dominar este algoritmo puede ser un desafío sin las herramientas adecuadas.
+Es por eso que surge la necesidad de crear una aplicación móvil que simplifique el aprendizaje y la práctica del algoritmo del día del juicio, especialmente para aquellos que buscan una herramienta intuitiva y en español.
+El algoritmo del día del juicio es una habilidad mental poco común, pero muy útil y estimulante. A pesar de su potencial, no existen muchas herramientas de aprendizaje en español que sean intuitivas y accesibles. La mayoría de las aplicaciones disponibles están en inglés y presentan interfaces complejas o funcionalidades limitadas.
+Esta aplicación busca llenar ese vacío, ofreciendo una herramienta simple, directa y en español para que cualquier persona pueda aprender y practicar el algoritmo del día del juicio. Está dirigida a un amplio público: estudiantes, profesionales, entusiastas de las matemáticas y cualquier persona que desee mejorar sus habilidades cognitivas y de cálculo mental.
+Al ser una aplicación multiplataforma (IOS, Android, Web, Windows, Linux y MacOS), se garantiza su accesibilidad a un mayor número de usuarios, independientemente del dispositivo que utilicen. Además, una aplicación móvil es ideal para practicar en cualquier momento y lugar, fomentando la consistencia y el progreso.
+Objetivos:
+
+Objetivo General:
+•	Desarrollar una aplicación móvil multiplataforma que facilite el aprendizaje y práctica del algoritmo del día del juicio de forma intuitiva y en español.
+Objetivos Específicos:
+•	Simplificar la explicación del algoritmo y su proceso de cálculo.
+•	Generar fechas aleatorias para la práctica.
+•	Medir el tiempo de respuesta del usuario.
+•	Permitir al usuario establecer límites de tiempo para responder antes de revelar la solución.
+•	Crear una interfaz amigable y atractiva que motive al usuario a practicar regularmente. 
+Requerimientos Funcionales
+
+•	Generación de fechas
+	Generar fechas aleatorias validas 
+•	Cálculo y verificación
+	Implementar el algoritmo del día del juicio para calcular el día de la semana correspondiente a una fecha dada.
+	Verificar la respuesta del usuario y proporcionar retroalimentación inmediata (correcto/incorrecto)
+	Mostrar la solución correcta en caso de error.
+	Mostrar la solución correcta en caso de rendirse.
+	Mostrar la solución correcta en caso de acabarse el tiempo establecido.
+
+•	Medición de tiempo
+	Medir el tiempo que tarda el usuario en responder.
+	Permitir al usuario establecer un límite de tiempo para responder.
+•	Interfaz de usuario
+	Diseño intuitivo y fácil de usar.
+	Pantalla principal con opciones para generar fechas, opciones de respuesta, ver respuesta y ver información del algoritmo
+Requerimientos No Funcionales
+
+•	Rendimiento: La aplicación debe ser rápida y eficiente en el cálculo y la generación de fechas.
+•	Usabilidad: La interfaz debe ser intuitiva y fácil de usar, incluso para usuarios sin conocimientos previos del algoritmo.
+•	Compatibilidad: La aplicación debe ser compatible con dispositivos iOS y Android.
+
+Tecnologías para el desarrollo
+Flutter es la tecnología ideal para desarrollar esta aplicación de aprendizaje del algoritmo del día del juicio por varias razones clave:
+•	Desarrollo Multiplataforma: La principal ventaja de Flutter es su capacidad para crear aplicaciones nativas para iOS, Android, web, Windows, Linux y macOS a partir de una única base de código
+•	Rendimiento Nativo: A diferencia de otras herramientas multiplataforma, Flutter compila el código directamente en código nativo de cada plataforma.
+•	Público Objetivo Amplio: Al ser multiplataforma, la aplicación llegará a un público más amplio.
+•	Experiencia de Usuario Optimizada: El rendimiento nativo de Flutter garantizará una experiencia de usuario fluida y agradable, esencial para mantener a los usuarios interesados y motivados.
